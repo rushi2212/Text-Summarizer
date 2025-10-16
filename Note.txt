@@ -1,5 +1,24 @@
 ##For gemini
 pip install google-generativeai python-dotenv
 
+
 ##For HF
 pip install transformers torch
+
+
+##for HF input
+pip install tf-keras
+
+
+##Test text
+
+Artificial Intelligence (AI) has become an integral part of modern technology, transforming industries and daily life alike. 
+From healthcare and education to finance and entertainment, AI-powered systems are enhancing efficiency, accuracy, and personalization. 
+In healthcare, AI assists doctors by analyzing medical images, predicting diseases, and recommending treatments. 
+Educational institutions use AI-driven tools for personalized learning, adaptive testing, and student performance analytics. 
+In finance, AI algorithms detect fraud, automate trading, and provide customer insights for better decision-making. 
+
+However, alongside its benefits, AI also raises concerns about job displacement, privacy, and ethical issues. 
+Automation may replace repetitive jobs, affecting workers in traditional sectors, while data collection for AI training often leads to debates on security and consent. 
+Experts emphasize the need for responsible AI development that prioritizes transparency, fairness, and accountability. 
+With proper regulation and awareness, AI can serve as a powerful tool for human progress rather than a threat.
