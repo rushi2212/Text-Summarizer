@@ -1,0 +1,6 @@
+
+## Dependencies
+pip install streamlit google-generativeai python-dotenv
+
+## Run command
+python -m streamlit run app.py
